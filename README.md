@@ -3,7 +3,7 @@
 GSM_Mobile_Project (HTML, CSS)
 - A website project with informations about GSM and mobile technology
 
-# What I learned
+# What I Learned
 
 - I have put the basics in HTML & CSS coding
 - How to create an interactive website for desktop
